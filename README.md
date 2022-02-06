@@ -14,7 +14,7 @@ Gorm:v1.22.5
 
 （1）连接到后端的地址，vue.config.js
 
-![image-20220206145604467](images/image-20220206145604467.png)
+![](https://img2022.cnblogs.com/blog/1722983/202202/1722983-20220206154840667-1029377952.png)
 
 （2）src/compoents/TodList.vue
 
